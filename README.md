@@ -1,4 +1,9 @@
-### Hi there 👋
+नमस्ते (Namaste)🙏🏻, I'm Nikhil Singh ! 
+
+🔭 I’m a Frontend Developer
+- 🌱 I’m currently learning DSA
+- 📫 How to reach me: thesinghnikhil6@gmail.com
+- ⚡ Check my PortFolio:https://nikhilsingh7.github.io/PortFolio/
 
 <!--
 **nikhilsingh7/nikhilsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
