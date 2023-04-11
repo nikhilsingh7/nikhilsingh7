@@ -1,7 +1,8 @@
 नमस्ते (Namaste)🙏🏻, I'm Nikhil Singh ! 
 
-🔭 I’m a Frontend Developer
-- 🌱 I’m currently learning Fullstak Using MERN and DSA
+🌱 I’m a Frontend Developer
+
+- 🔭 I’m currently learning Fullstak Using MERN and DSA
 - 📫 How to reach me: thesinghnikhil6@gmail.com
 - ⚡ Check my PortFolio:https://nikhilsingh7.github.io/PortFolio/
 
