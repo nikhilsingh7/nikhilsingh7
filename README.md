@@ -1,6 +1,6 @@
 नमस्ते (Namaste)🙏🏻, I'm Nikhil Singh ! 
 
-🌱 I’m a Frontend Developer
+🌱 I’m a Frontend Developer(React Js)
 
 - 🔭 I’m currently learning Fullstak Using MERN and DSA
 - 📫 How to reach me: thesinghnikhil6@gmail.com
