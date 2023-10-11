@@ -1,9 +1,9 @@
 नमस्ते (Namaste)🙏🏻, I'm Nikhil Singh ! 
 
-🌱 I’m a Frontend Developer(React Js)
+🌱 I’m a MERN Developer
 
-- 🔭 I’m currently learning Fullstak Using MERN and DSA
-- 📫 How to reach me: thesinghnikhil6@gmail.com
+- 🔭 I’m  Fullstak Using MERN and MySql
+- 📫 How to reach me: nikhilsingh808199@gmail.com
 - ⚡ Check my PortFolio:https://port-folio-with-react-eight.vercel.app/
 
 <!--
